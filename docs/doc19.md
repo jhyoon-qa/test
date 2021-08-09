@@ -155,7 +155,7 @@ clear_button = driver.find_element_by_xpath("//form[@id='loginForm']/input[4]")
 
 위 예제는 각 ID 또는 NAME 에 해당하는 엘레먼트의 경로를 **Xpath** 로 어떻게 지정할 수 있는지 예제이다.
 
-위 예제처럼 직접적으로 ID 나 NAME 을 관리하는 것보다는 이전에 설명한 [셀레니움이란?](./doc6.md) 에서 **Xpath** 나 **CSS Selector** 를 학습하여 로케이터를 관리하는 것이직접 ID 나 NAME 같은 방법으로 특정 엘레먼트를 찾는 것보다는 훨씬 효율적이라 한것이다.
+위 예제처럼 직접적으로 ID 나 NAME 을 관리하는 것보다는 이전에 설명한 [셀레니움이란?](/opt/build/repo/docs/doc6.md) 에서 **Xpath** 나 **CSS Selector** 를 학습하여 로케이터를 관리하는 것이직접 ID 나 NAME 같은 방법으로 특정 엘레먼트를 찾는 것보다는 훨씬 효율적이라 한것이다.
 
 
 

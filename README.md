@@ -31,3 +31,7 @@ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9097e6b6-aa78-4805-9e15-fbddcefae135/deploy-status)](https://app.netlify.com/sites/linesong-jhyoon/deploys)

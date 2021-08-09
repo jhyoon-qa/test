@@ -1,7 +1,7 @@
 module.exports = {
   title: '기술블로그',
   tagline: '', // 공백으로 냅둠 제목 아래 내용을 채움
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://linesong-jhyoon.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

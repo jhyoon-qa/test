@@ -6,7 +6,7 @@ module.exports = {
 	Quality: ['doc5'],
 	
 	TestingTools: [{
-		Selenium : ['doc6', 'doc18', 'doc19', 'doc20'],
+		Selenium : ['doc6', 'doc18', 'doc19', 'doc20', 'doc22'],
 		준비중 : ['doc17'],
 	}],
 	

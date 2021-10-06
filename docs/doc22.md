@@ -1,6 +1,6 @@
 ---
 id: doc22
-title: Page Object Model(POM)
+title: Page Object Model (POM)
 ---
 
 ## Selenium - 005 - Page Object Model (POM)

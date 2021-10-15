@@ -41,7 +41,7 @@ commit 히스토리가 워낙 오래 쌓여있기도 하고, 사실 SVN 에서 g
 
 ```shell
 ├── branch
-│   └── brancj 1
+│   └── branch 1
 ├── trunk
 │   └── trunk 1
 ├── tag

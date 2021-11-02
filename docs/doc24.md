@@ -1,6 +1,7 @@
 ---
 id: doc24
 title: Selenium 실전편 Part 02
+
 ---
 
 ## Selenium - 007 - Selenium 실전편 Part 02
@@ -10,6 +11,8 @@ title: Selenium 실전편 Part 02
 - Python 3.7.7
 - Selenium 3.141.0
 - Pytest 6.2.1
+
+
 
 
 
@@ -99,11 +102,11 @@ Project-Directory
 
 
 
+
+
 전체적인 흐름을 설명하자면,
 
 Tests 폴더의 test.py 에는 Config 에 선언된 정보 (ID/PW 또는 URL 또는 데이터 정보) 를 불러오고 @pytest.fixture 심볼릭 드라이버 정보를 수행하여 각 Locator 에 정의된 엘리먼트들을 Pages 에 정의된 함수들을 호출하여 TEST 를 진행하게 된다.
-
-
 
 
 

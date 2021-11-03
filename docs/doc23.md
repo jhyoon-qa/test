@@ -4,9 +4,9 @@ title: Selenium 실전편 Part 01
 
 ---
 
-## Selenium - 007 - Selenium 실전편 Part 01
+## Selenium - 006 - Selenium 실전편 Part 01
 
-Selenium 001 ~ 006 을 통하여 이제 Selenium 의 기본적인 개념과 간략한 설명이 이해가 되었다면
+Selenium 001 ~ 005 을 통하여 이제 Selenium 의 기본적인 개념과 간략한 설명이 이해가 되었다면
 
 이제 어떻게 실제 실무에서 어떻게 사용해야하는지 임의의 사이트를 대상으로 설명 하고자 한다.
 

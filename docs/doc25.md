@@ -1,6 +1,6 @@
 ---
 id: doc25
-title: Selenium 실전편 Part 03 로케이터 작성
+title: Selenium 실전편 Part 03-01
 ---
 
 ## Selenium - 008 - Selenium 실전편 Part 03 로케이터 작성

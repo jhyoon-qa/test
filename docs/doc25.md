@@ -36,7 +36,7 @@ css, Xpath 등 추후 사용 시, 구분자로 사용할 수 있는 방법으로
 
 필자는 주로 Xpath 를 사용함으로, 예시에도 Xpath 를 기준으로 작성하도록 하겠다.
 
-최초, [Selenium 실전편 Part 01]() 에서 정의 한 기본 노출과 기능을 다시 한번 확인하면 다음과 같다.
+최초, [Selenium 실전편 Part 01](https://qa-linesong.netlify.app/docs/doc23) 에서 정의 한 기본 노출과 기능을 다시 한번 확인하면 다음과 같다.
 
 
 

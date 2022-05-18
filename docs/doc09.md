@@ -158,7 +158,7 @@ class redmine_menu(base_3, from_3):
         self.main.show()
         self.close()
     
-# UBcare 접속 권한 관리 도구 메인
+# 접속 권한 관리 도구 메인
 class redmine_menu_single(base_4, from_4):
     def __init__(self):
         super(base_4,self).__init__()
@@ -240,7 +240,7 @@ class redmine_menu_single(base_4, from_4):
     # 이메일 입력 값 전역 변수 저장    
     def get_search_mail(self):
         global search_mail    
-        search_mail = self.input_mail.text() # + '@ubcare.co.kr' // 계약, 파견의 경우 ubware 만 발급 되는 경우가 있어 해당 내용 제외 이메일로 검색
+        search_mail = self.input_mail.text() # + '@회사도메인' // 계약, 파견의 경우 ubware 만 발급 되는 경우가 있어 해당 내용 제외 이메일로 검색
         
     # 유저 검색 결과 처리 함수    
     def search_result(self):
@@ -312,7 +312,7 @@ class redmine_single_create_user(base_5, from_5):
         create_id = self.lineEdit_id.text()
         create_lastname = self.lineEdit_lastname.text()
         create_firstname = self.lineEdit_firstname.text()
-        create_mail = self.lineEdit_id.text() + '@ubcare.co.kr'
+        create_mail = self.lineEdit_id.text() + '@회사도메인'
         
         select_auth = self.listView_auth.selectedIndexes()
         for check_auth in select_auth:

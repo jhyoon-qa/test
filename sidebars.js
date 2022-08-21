@@ -1,7 +1,7 @@
 module.exports = {
 
   Sidebar: {
-	Testing: ['doc1', 'doc21'],
+	Testing: ['doc1'],
 	
 	Quality: ['doc5'],
 	
